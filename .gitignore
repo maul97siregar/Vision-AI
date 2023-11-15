@@ -1,0 +1,23 @@
+## ignore virtual environemtn folder
+local_env/
+venv/
+.vscode/
+
+## ignore output file
+__pycache__
+uploads/
+test.txt
+*.jpg
+*.jpeg
+*.png
+# *test*.*
+*.xlsx
+
+## ignore google cloud vision api key
+key.json
+
+## custom file or folder
+fig_output
+debug*
+test*.ipynb
+defects

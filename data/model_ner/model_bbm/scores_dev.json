@@ -1,0 +1,77 @@
+{
+  "token_acc": 1.0,
+  "token_p": 1.0,
+  "token_r": 1.0,
+  "token_f": 1.0,
+  "sents_p": null,
+  "sents_r": null,
+  "sents_f": null,
+  "tag_acc": null,
+  "pos_acc": null,
+  "morph_acc": null,
+  "morph_micro_p": null,
+  "morph_micro_r": null,
+  "morph_micro_f": null,
+  "morph_per_feat": null,
+  "dep_uas": null,
+  "dep_las": null,
+  "dep_las_per_type": null,
+  "ents_p": 0.929718875502008,
+  "ents_r": 0.907843137254902,
+  "ents_f": 0.9186507936507937,
+  "ents_per_type": {
+    "NAMA SPBU": {
+      "p": 0.8653846153846154,
+      "r": 0.8333333333333334,
+      "f": 0.8490566037735849
+    },
+    "TANGGAL": { "p": 0.9516129032258065, "r": 0.9365079365079365, "f": 0.944 },
+    "JUMLAH_LITER": { "p": 0.9375, "r": 0.9375, "f": 0.9375 },
+    "HARGA_LITER": {
+      "p": 0.9655172413793104,
+      "r": 0.9180327868852459,
+      "f": 0.9411764705882353
+    },
+    "TOTAL_HARGA": {
+      "p": 0.9649122807017544,
+      "r": 1.0,
+      "f": 0.9821428571428572
+    },
+    "KODE_SPBU": {
+      "p": 0.8717948717948718,
+      "r": 0.918918918918919,
+      "f": 0.8947368421052632
+    },
+    "NO_POMPA": {
+      "p": 0.9565217391304348,
+      "r": 0.8979591836734694,
+      "f": 0.9263157894736843
+    },
+    "NAMA_PRODUK": {
+      "p": 0.9833333333333333,
+      "r": 0.9833333333333333,
+      "f": 0.9833333333333333
+    },
+    "NO_PLAT": {
+      "p": 0.8421052631578947,
+      "r": 0.6666666666666666,
+      "f": 0.744186046511628
+    },
+    "LOKASI": {
+      "p": 0.8536585365853658,
+      "r": 0.813953488372093,
+      "f": 0.8333333333333333
+    }
+  },
+  "cats_score": 0.0,
+  "cats_score_desc": "macro F",
+  "cats_micro_p": 0.0,
+  "cats_micro_r": 0.0,
+  "cats_micro_f": 0.0,
+  "cats_macro_p": 0.0,
+  "cats_macro_r": 0.0,
+  "cats_macro_f": 0.0,
+  "cats_macro_auc": 0.0,
+  "cats_f_per_type": {},
+  "cats_auc_per_type": {}
+}

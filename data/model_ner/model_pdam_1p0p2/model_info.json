@@ -1,0 +1,84 @@
+{
+  "token_acc": 1.0,
+  "token_p": 1.0,
+  "token_r": 1.0,
+  "token_f": 1.0,
+  "sents_p": null,
+  "sents_r": null,
+  "sents_f": null,
+  "tag_acc": null,
+  "pos_acc": null,
+  "morph_acc": null,
+  "morph_micro_p": null,
+  "morph_micro_r": null,
+  "morph_micro_f": null,
+  "morph_per_feat": null,
+  "dep_uas": null,
+  "dep_las": null,
+  "dep_las_per_type": null,
+  "ents_p": 0.95625,
+  "ents_r": 0.9071146245059288,
+  "ents_f": 0.9310344827586207,
+  "ents_per_type": {
+    "MERCHANT": {
+      "p": 0.9655172413793104,
+      "r": 0.9824561403508771,
+      "f": 0.9739130434782608
+    },
+    "NAMA_PDAM": { "p": 1.0, "r": 0.9642857142857143, "f": 0.9818181818181818 },
+    "TANGGAL_PEMBAYARAN": {
+      "p": 0.9636363636363636,
+      "r": 0.9137931034482759,
+      "f": 0.9380530973451328
+    },
+    "NO_PELANGGAN": {
+      "p": 1.0,
+      "r": 0.9545454545454546,
+      "f": 0.9767441860465117
+    },
+    "NAMA_PELANGGAN": {
+      "p": 0.9272727272727272,
+      "r": 0.9107142857142857,
+      "f": 0.918918918918919
+    },
+    "GOLONGAN": { "p": 0.9411764705882353, "r": 0.8, "f": 0.8648648648648648 },
+    "PERIODE": { "p": 1.0, "r": 0.9310344827586207, "f": 0.9642857142857143 },
+    "METER_AWAL": {
+      "p": 0.8888888888888888,
+      "r": 0.8888888888888888,
+      "f": 0.8888888888888888
+    },
+    "METER_AKHIR": { "p": 1.0, "r": 0.875, "f": 0.9333333333333333 },
+    "PEMAKAIAN": {
+      "p": 0.7586206896551724,
+      "r": 0.88,
+      "f": 0.8148148148148148
+    },
+    "ALAMAT_PELANGGAN": {
+      "p": 0.8,
+      "r": 0.6153846153846154,
+      "f": 0.6956521739130435
+    },
+    "TOTAL_TAGIHAN": {
+      "p": 0.9824561403508771,
+      "r": 0.9032258064516129,
+      "f": 0.9411764705882352
+    },
+    "METER_AWAL_AKHIR": {
+      "p": 0.9696969696969697,
+      "r": 0.8,
+      "f": 0.8767123287671234
+    }
+  },
+  "cats_score": 0.0,
+  "cats_score_desc": "macro F",
+  "cats_micro_p": 0.0,
+  "cats_micro_r": 0.0,
+  "cats_micro_f": 0.0,
+  "cats_macro_p": 0.0,
+  "cats_macro_r": 0.0,
+  "cats_macro_f": 0.0,
+  "cats_macro_auc": 0.0,
+  "cats_f_per_type": {},
+  "cats_auc_per_type": {}
+}

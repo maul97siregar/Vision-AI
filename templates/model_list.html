@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1>Model List</h1>
+        <ul>
+            {% for model in model_list %}
+                <li><a href="/data/model_ner/{{ model }}/model_info.json">{{ model }}</a>  </li>
+            {% endfor %}
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,42 @@
+{
+  "lang":"id",
+  "name":"pipeline",
+  "version":"0.0.0",
+  "spacy_version":">=3.5.2,<3.6.0",
+  "description":"",
+  "author":"",
+  "email":"",
+  "url":"",
+  "license":"",
+  "spacy_git_version":"aea4a96f9",
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":null,
+    "mode":"default"
+  },
+  "labels":{
+    "ner":[
+      "HARGA_LITER",
+      "JUMLAH_LITER",
+      "KODE_SPBU",
+      "LOKASI",
+      "NAMA SPBU",
+      "NAMA_PRODUK",
+      "NO_PLAT",
+      "NO_POMPA",
+      "TANGGAL",
+      "TOTAL_HARGA"
+    ]
+  },
+  "pipeline":[
+    "ner"
+  ],
+  "components":[
+    "ner"
+  ],
+  "disabled":[
+
+  ]
+}
